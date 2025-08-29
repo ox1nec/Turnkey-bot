@@ -13,7 +13,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/zorru0/Turnkey-bot
+git clone https://github.com/ox1nec/Turnkey-bot
 cd Turnkey-bot
 run.bat
 ```
@@ -21,7 +21,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/zorru0/Turnkey-bot
+git clone https://github.com/ox1nec/Turnkey-bot
 cd Turnkey-bot
 pip install -r requirements.txt
 python bot.py
